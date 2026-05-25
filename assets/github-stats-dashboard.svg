@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="940" viewBox="0 0 980 940" role="img" aria-label="Felix Xiang GitHub profile statistics dashboard">
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="930" viewBox="0 0 1120 930" role="img" aria-label="Felix Xiang GitHub profile statistics dashboard">
   <title>Felix Xiang GitHub Statistics</title>
-  <desc>Public profile snapshot for XFX-939: 24 public repositories, 12 stars, 6 forks, 7 followers, and 15 active repositories in the last year.</desc>
+  <desc>Public profile snapshot for XFX-939 with safer text layout and GitHub statistics.</desc>
   <defs>
     <style>
-      .bg{fill:#0d1117}.panel{fill:#161b22;stroke:#30363d;stroke-width:1}.card{fill:#101923;stroke:#30363d;stroke-width:1}.text{fill:#e6edf3;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",Arial,sans-serif}.muted{fill:#8b949e;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",Arial,sans-serif}.mono{font-family:Consolas,"SFMono-Regular","Cascadia Mono",monospace}.blue{fill:#58a6ff}.green{fill:#3fb950}.cyan{fill:#39c5cf}.amber{fill:#d29922}.violet{fill:#a371f7}.red{fill:#f85149}.line{stroke:#30363d;stroke-width:2}
+      .bg{fill:#0d1117}.panel{fill:#161b22;stroke:#30363d;stroke-width:1}.text{fill:#e6edf3;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",Arial,sans-serif}.muted{fill:#8b949e;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",Arial,sans-serif}.mono{font-family:Consolas,"SFMono-Regular","Cascadia Mono",monospace}.blue{fill:#58a6ff}.green{fill:#3fb950}.cyan{fill:#39c5cf}.amber{fill:#d29922}.violet{fill:#a371f7}.red{fill:#f85149}.line{stroke:#30363d;stroke-width:2}
     </style>
     <linearGradient id="headline" x1="0" x2="1" y1="0" y2="0">
       <stop offset="0" stop-color="#58a6ff"/>
@@ -11,118 +11,123 @@
       <stop offset="1" stop-color="#3fb950"/>
     </linearGradient>
   </defs>
-  <rect class="bg" width="980" height="940" rx="14"/>
-  <rect x="0" y="0" width="980" height="10" fill="url(#headline)" rx="5"/>
 
-  <text class="text" x="48" y="70" font-size="38" font-weight="800">Felix Xiang · GitHub 统计</text>
-  <text class="muted" x="48" y="104" font-size="15">Wireless systems engineer building simulation platforms, digital twins, and AI-powered R&amp;D workflows.</text>
-  <text class="muted" x="900" y="54" font-size="13" text-anchor="end">公开资料快照</text>
-  <text class="muted mono" x="900" y="76" font-size="13" text-anchor="end">2026-05-26 00:11 +08:00</text>
+  <rect class="bg" width="1120" height="930" rx="14"/>
+  <rect x="0" y="0" width="1120" height="10" fill="url(#headline)" rx="5"/>
 
-  <g transform="translate(48 132)">
-    <rect class="panel" x="0" y="0" width="136" height="88" rx="8"/>
-    <text class="blue mono" x="16" y="38" font-size="30" font-weight="800">24</text>
-    <text class="muted" x="16" y="66" font-size="13">公开仓库</text>
+  <text class="text" x="64" y="72" font-size="40" font-weight="800">Felix Xiang · GitHub 统计</text>
+  <text class="muted" x="64" y="108" font-size="15">Wireless systems engineer building simulation platforms, digital twins, and AI-powered R&amp;D workflows.</text>
+  <text class="muted" x="1056" y="56" font-size="13" text-anchor="end">公开资料快照</text>
+  <text class="muted mono" x="1056" y="78" font-size="13" text-anchor="end">2026-05-26 00:51 +08:00</text>
 
-    <rect class="panel" x="150" y="0" width="136" height="88" rx="8"/>
-    <text class="amber mono" x="166" y="38" font-size="30" font-weight="800">12</text>
-    <text class="muted" x="166" y="66" font-size="13">Total Stars</text>
+  <g>
+    <rect class="panel" x="64" y="134" width="150" height="88" rx="8"/>
+    <text class="blue mono" x="80" y="172" font-size="30" font-weight="800">25</text>
+    <text class="muted" x="80" y="200" font-size="13">公开仓库</text>
 
-    <rect class="panel" x="300" y="0" width="136" height="88" rx="8"/>
-    <text class="cyan mono" x="316" y="38" font-size="30" font-weight="800">6</text>
-    <text class="muted" x="316" y="66" font-size="13">Forks</text>
+    <rect class="panel" x="236" y="134" width="150" height="88" rx="8"/>
+    <text class="amber mono" x="252" y="172" font-size="30" font-weight="800">12</text>
+    <text class="muted" x="252" y="200" font-size="13">Total Stars</text>
 
-    <rect class="panel" x="450" y="0" width="136" height="88" rx="8"/>
-    <text class="violet mono" x="466" y="38" font-size="30" font-weight="800">7</text>
-    <text class="muted" x="466" y="66" font-size="13">Followers</text>
+    <rect class="panel" x="408" y="134" width="150" height="88" rx="8"/>
+    <text class="cyan mono" x="424" y="172" font-size="30" font-weight="800">6</text>
+    <text class="muted" x="424" y="200" font-size="13">Forks</text>
 
-    <rect class="panel" x="600" y="0" width="136" height="88" rx="8"/>
-    <text class="green mono" x="616" y="38" font-size="30" font-weight="800">15</text>
-    <text class="muted" x="616" y="66" font-size="13">近 365 天活跃</text>
+    <rect class="panel" x="580" y="134" width="150" height="88" rx="8"/>
+    <text class="violet mono" x="596" y="172" font-size="30" font-weight="800">8</text>
+    <text class="muted" x="596" y="200" font-size="13">Followers</text>
 
-    <rect class="panel" x="750" y="0" width="136" height="88" rx="8"/>
-    <text class="red mono" x="766" y="38" font-size="30" font-weight="800">15</text>
-    <text class="muted" x="766" y="66" font-size="13">近 30 天活跃</text>
+    <rect class="panel" x="752" y="134" width="150" height="88" rx="8"/>
+    <text class="green mono" x="768" y="172" font-size="30" font-weight="800">16</text>
+    <text class="muted" x="768" y="200" font-size="13">近 365 天活跃</text>
+
+    <rect class="panel" x="924" y="134" width="150" height="88" rx="8"/>
+    <text class="red mono" x="940" y="172" font-size="30" font-weight="800">16</text>
+    <text class="muted" x="940" y="200" font-size="13">近 30 天活跃</text>
   </g>
 
-  <g transform="translate(48 250)">
-    <rect class="panel" x="0" y="0" width="432" height="286" rx="8"/>
-    <text class="text" x="18" y="34" font-size="20" font-weight="800">Star 排行</text>
-    <text class="text" x="18" y="76" font-size="12" font-weight="700">selfreport</text>
-    <rect class="blue" x="170" y="62" width="236" height="18" rx="4"/><text class="text mono" x="414" y="76" font-size="12">7</text>
-    <text class="text" x="18" y="112" font-size="12" font-weight="700">felix-quant</text>
-    <rect class="green" x="170" y="98" width="101" height="18" rx="4"/><text class="text mono" x="279" y="112" font-size="12">3</text>
-    <text class="text" x="18" y="148" font-size="12" font-weight="700">xiang-fuxing-blog</text>
-    <rect class="cyan" x="170" y="134" width="34" height="18" rx="4"/><text class="text mono" x="212" y="148" font-size="12">1</text>
-    <text class="text" x="18" y="184" font-size="12" font-weight="700">SHUSport</text>
-    <rect class="amber" x="170" y="170" width="34" height="18" rx="4"/><text class="text mono" x="212" y="184" font-size="12">1</text>
-    <text class="text" x="18" y="220" font-size="12" font-weight="700">ai-learning-lab</text>
-    <rect class="violet" x="170" y="206" width="8" height="18" rx="4"/><text class="muted mono" x="188" y="220" font-size="12">0</text>
-    <text class="text" x="18" y="256" font-size="12" font-weight="700">flight</text>
-    <rect class="red" x="170" y="242" width="8" height="18" rx="4"/><text class="muted mono" x="188" y="256" font-size="12">0</text>
+  <g>
+    <rect class="panel" x="64" y="252" width="492" height="286" rx="8"/>
+    <text class="text" x="88" y="288" font-size="20" font-weight="800">Star 排行</text>
 
-    <rect class="panel" x="456" y="0" width="432" height="286" rx="8"/>
-    <text class="text" x="474" y="34" font-size="20" font-weight="800">最近活跃仓库</text>
-    <text class="text" x="474" y="76" font-size="12" font-weight="700">ai-learning-lab</text>
-    <rect class="blue" x="626" y="62" width="236" height="18" rx="4"/><text class="muted mono" x="870" y="76" font-size="12">2026-05-19</text>
-    <text class="text" x="474" y="112" font-size="12" font-weight="700">xiang-fuxing-blog</text>
-    <rect class="green" x="626" y="98" width="190" height="18" rx="4"/><text class="muted mono" x="824" y="112" font-size="12">2026-05-15</text>
-    <text class="text" x="474" y="148" font-size="12" font-weight="700">flight</text>
-    <rect class="cyan" x="626" y="134" width="190" height="18" rx="4"/><text class="muted mono" x="824" y="148" font-size="12">2026-05-15</text>
-    <text class="text" x="474" y="184" font-size="12" font-weight="700">racing</text>
-    <rect class="amber" x="626" y="170" width="190" height="18" rx="4"/><text class="muted mono" x="824" y="184" font-size="12">2026-05-15</text>
-    <text class="text" x="474" y="220" font-size="12" font-weight="700">global-military-atlas</text>
-    <rect class="violet" x="626" y="206" width="150" height="18" rx="4"/><text class="muted mono" x="784" y="220" font-size="12">2026-05-14</text>
-    <text class="text" x="474" y="256" font-size="12" font-weight="700">blogfactory</text>
-    <rect class="red" x="626" y="242" width="150" height="18" rx="4"/><text class="muted mono" x="784" y="256" font-size="12">2026-05-14</text>
+    <text class="text" x="88" y="330" font-size="12" font-weight="700">selfreport</text>
+    <rect class="blue" x="280" y="316" width="234" height="18" rx="4"/><text class="text mono" x="526" y="330" font-size="12">7</text>
+    <text class="text" x="88" y="366" font-size="12" font-weight="700">felix-quant</text>
+    <rect class="green" x="280" y="352" width="100" height="18" rx="4"/><text class="text mono" x="392" y="366" font-size="12">3</text>
+    <text class="text" x="88" y="402" font-size="12" font-weight="700">SHUSport</text>
+    <rect class="cyan" x="280" y="388" width="34" height="18" rx="4"/><text class="text mono" x="326" y="402" font-size="12">1</text>
+    <text class="text" x="88" y="438" font-size="12" font-weight="700">xiang-fuxing-blog</text>
+    <rect class="amber" x="280" y="424" width="34" height="18" rx="4"/><text class="text mono" x="326" y="438" font-size="12">1</text>
+    <text class="text" x="88" y="474" font-size="12" font-weight="700">ai-learning-lab</text>
+    <rect class="violet" x="280" y="460" width="8" height="18" rx="4"/><text class="muted mono" x="300" y="474" font-size="12">0</text>
+    <text class="text" x="88" y="510" font-size="12" font-weight="700">Algorithm</text>
+    <rect class="red" x="280" y="496" width="8" height="18" rx="4"/><text class="muted mono" x="300" y="510" font-size="12">0</text>
+
+    <rect class="panel" x="580" y="252" width="492" height="286" rx="8"/>
+    <text class="text" x="604" y="288" font-size="20" font-weight="800">最近活跃仓库</text>
+
+    <text class="text" x="604" y="330" font-size="12" font-weight="700">XFX-939</text>
+    <rect class="blue" x="780" y="316" width="170" height="18" rx="4"/><text class="muted mono" x="1048" y="330" font-size="12" text-anchor="end">2026-05-25</text>
+    <text class="text" x="604" y="366" font-size="12" font-weight="700">ai-learning-lab</text>
+    <rect class="green" x="780" y="352" width="146" height="18" rx="4"/><text class="muted mono" x="1048" y="366" font-size="12" text-anchor="end">2026-05-19</text>
+    <text class="text" x="604" y="402" font-size="12" font-weight="700">xiang-fuxing-blog</text>
+    <rect class="cyan" x="780" y="388" width="122" height="18" rx="4"/><text class="muted mono" x="1048" y="402" font-size="12" text-anchor="end">2026-05-15</text>
+    <text class="text" x="604" y="438" font-size="12" font-weight="700">flight</text>
+    <rect class="amber" x="780" y="424" width="122" height="18" rx="4"/><text class="muted mono" x="1048" y="438" font-size="12" text-anchor="end">2026-05-15</text>
+    <text class="text" x="604" y="474" font-size="12" font-weight="700">racing</text>
+    <rect class="violet" x="780" y="460" width="122" height="18" rx="4"/><text class="muted mono" x="1048" y="474" font-size="12" text-anchor="end">2026-05-15</text>
+    <text class="text" x="604" y="510" font-size="12" font-weight="700">global-military-atlas</text>
+    <rect class="red" x="780" y="496" width="98" height="18" rx="4"/><text class="muted mono" x="1048" y="510" font-size="12" text-anchor="end">2026-05-14</text>
   </g>
 
-  <g transform="translate(48 560)">
-    <rect class="panel" x="0" y="0" width="432" height="252" rx="8"/>
-    <text class="text" x="18" y="34" font-size="20" font-weight="800">语言分布</text>
-    <circle cx="138" cy="136" r="74" fill="none" stroke="#30363d" stroke-width="34"/>
-    <circle cx="138" cy="136" r="74" fill="none" stroke="#58a6ff" stroke-width="34" stroke-dasharray="194 465" transform="rotate(-90 138 136)"/>
-    <circle cx="138" cy="136" r="74" fill="none" stroke="#3fb950" stroke-width="34" stroke-dasharray="136 465" stroke-dashoffset="-194" transform="rotate(-90 138 136)"/>
-    <circle cx="138" cy="136" r="74" fill="none" stroke="#d29922" stroke-width="34" stroke-dasharray="78 465" stroke-dashoffset="-330" transform="rotate(-90 138 136)"/>
-    <circle cx="138" cy="136" r="74" fill="none" stroke="#39c5cf" stroke-width="34" stroke-dasharray="19 465" stroke-dashoffset="-408" transform="rotate(-90 138 136)"/>
-    <circle cx="138" cy="136" r="74" fill="none" stroke="#a371f7" stroke-width="34" stroke-dasharray="19 465" stroke-dashoffset="-427" transform="rotate(-90 138 136)"/>
-    <circle cx="138" cy="136" r="74" fill="none" stroke="#f85149" stroke-width="34" stroke-dasharray="19 465" stroke-dashoffset="-446" transform="rotate(-90 138 136)"/>
-    <text class="text mono" x="138" y="133" text-anchor="middle" font-size="28" font-weight="800">24</text>
-    <text class="muted" x="138" y="156" text-anchor="middle" font-size="12">Repos</text>
-    <rect class="blue" x="264" y="58" width="12" height="12" rx="2"/><text class="text" x="284" y="69" font-size="13">TypeScript · 10</text>
-    <rect class="green" x="264" y="90" width="12" height="12" rx="2"/><text class="text" x="284" y="101" font-size="13">未标注 · 7</text>
-    <rect class="amber" x="264" y="122" width="12" height="12" rx="2"/><text class="text" x="284" y="133" font-size="13">Python · 4</text>
-    <rect class="cyan" x="264" y="154" width="12" height="12" rx="2"/><text class="text" x="284" y="165" font-size="13">MDX · 1</text>
-    <rect class="violet" x="264" y="186" width="12" height="12" rx="2"/><text class="text" x="284" y="197" font-size="13">JavaScript · 1</text>
-    <rect class="red" x="264" y="218" width="12" height="12" rx="2"/><text class="text" x="284" y="229" font-size="13">C++ · 1</text>
+  <g>
+    <rect class="panel" x="64" y="562" width="492" height="252" rx="8"/>
+    <text class="text" x="88" y="598" font-size="20" font-weight="800">语言分布</text>
+    <circle cx="224" cy="698" r="74" fill="none" stroke="#30363d" stroke-width="34"/>
+    <circle cx="224" cy="698" r="74" fill="none" stroke="#58a6ff" stroke-width="34" stroke-dasharray="186 465" transform="rotate(-90 224 698)"/>
+    <circle cx="224" cy="698" r="74" fill="none" stroke="#3fb950" stroke-width="34" stroke-dasharray="149 465" stroke-dashoffset="-186" transform="rotate(-90 224 698)"/>
+    <circle cx="224" cy="698" r="74" fill="none" stroke="#d29922" stroke-width="34" stroke-dasharray="74 465" stroke-dashoffset="-335" transform="rotate(-90 224 698)"/>
+    <circle cx="224" cy="698" r="74" fill="none" stroke="#39c5cf" stroke-width="34" stroke-dasharray="19 465" stroke-dashoffset="-409" transform="rotate(-90 224 698)"/>
+    <circle cx="224" cy="698" r="74" fill="none" stroke="#a371f7" stroke-width="34" stroke-dasharray="19 465" stroke-dashoffset="-428" transform="rotate(-90 224 698)"/>
+    <circle cx="224" cy="698" r="74" fill="none" stroke="#f85149" stroke-width="34" stroke-dasharray="18 465" stroke-dashoffset="-447" transform="rotate(-90 224 698)"/>
+    <text class="text mono" x="224" y="695" text-anchor="middle" font-size="28" font-weight="800">25</text>
+    <text class="muted" x="224" y="718" text-anchor="middle" font-size="12">Repos</text>
 
-    <rect class="panel" x="456" y="0" width="432" height="252" rx="8"/>
-    <text class="text" x="474" y="34" font-size="20" font-weight="800">项目主题</text>
-    <text class="text" x="474" y="78" font-size="12" font-weight="700">AI 学习与研发工具</text>
-    <rect class="blue" x="626" y="62" width="214" height="16" rx="4"/><text class="muted mono" x="848" y="76" font-size="12">recent focus</text>
-    <text class="text" x="474" y="118" font-size="12" font-weight="700">无线系统与仿真</text>
-    <rect class="green" x="626" y="102" width="172" height="16" rx="4"/><text class="muted mono" x="806" y="116" font-size="12">core domain</text>
-    <text class="text" x="474" y="158" font-size="12" font-weight="700">个人网站与内容系统</text>
-    <rect class="cyan" x="626" y="142" width="150" height="16" rx="4"/><text class="muted mono" x="784" y="156" font-size="12">publishing</text>
-    <text class="text" x="474" y="198" font-size="12" font-weight="700">3D 游戏与可视化</text>
-    <rect class="amber" x="626" y="182" width="136" height="16" rx="4"/><text class="muted mono" x="770" y="196" font-size="12">experiments</text>
-    <text class="text" x="474" y="232" font-size="12" font-weight="700">量化与数据看板</text>
-    <rect class="violet" x="626" y="216" width="110" height="16" rx="4"/><text class="muted mono" x="744" y="230" font-size="12">research</text>
+    <rect class="blue" x="386" y="620" width="12" height="12" rx="2"/><text class="text" x="406" y="631" font-size="13">TypeScript · 10</text>
+    <rect class="green" x="386" y="652" width="12" height="12" rx="2"/><text class="text" x="406" y="663" font-size="13">未标注 · 8</text>
+    <rect class="amber" x="386" y="684" width="12" height="12" rx="2"/><text class="text" x="406" y="695" font-size="13">Python · 4</text>
+    <rect class="cyan" x="386" y="716" width="12" height="12" rx="2"/><text class="text" x="406" y="727" font-size="13">MDX · 1</text>
+    <rect class="violet" x="386" y="748" width="12" height="12" rx="2"/><text class="text" x="406" y="759" font-size="13">JavaScript · 1</text>
+    <rect class="red" x="386" y="780" width="12" height="12" rx="2"/><text class="text" x="406" y="791" font-size="13">C++ · 1</text>
+
+    <rect class="panel" x="580" y="562" width="492" height="252" rx="8"/>
+    <text class="text" x="604" y="598" font-size="20" font-weight="800">项目主题</text>
+
+    <text class="text" x="604" y="642" font-size="12" font-weight="700">AI 学习与研发工具</text>
+    <rect class="blue" x="780" y="626" width="164" height="16" rx="4"/><text class="muted mono" x="1048" y="640" font-size="12" text-anchor="end">focus</text>
+    <text class="text" x="604" y="682" font-size="12" font-weight="700">无线系统与仿真</text>
+    <rect class="green" x="780" y="666" width="148" height="16" rx="4"/><text class="muted mono" x="1048" y="680" font-size="12" text-anchor="end">core</text>
+    <text class="text" x="604" y="722" font-size="12" font-weight="700">个人网站与内容系统</text>
+    <rect class="cyan" x="780" y="706" width="132" height="16" rx="4"/><text class="muted mono" x="1048" y="720" font-size="12" text-anchor="end">publish</text>
+    <text class="text" x="604" y="762" font-size="12" font-weight="700">3D 游戏与可视化</text>
+    <rect class="amber" x="780" y="746" width="116" height="16" rx="4"/><text class="muted mono" x="1048" y="760" font-size="12" text-anchor="end">visual</text>
+    <text class="text" x="604" y="796" font-size="12" font-weight="700">量化与数据看板</text>
+    <rect class="violet" x="780" y="780" width="98" height="16" rx="4"/><text class="muted mono" x="1048" y="794" font-size="12" text-anchor="end">data</text>
   </g>
 
-  <g transform="translate(48 836)">
-    <rect class="panel" x="0" y="0" width="888" height="64" rx="8"/>
-    <text class="text" x="18" y="28" font-size="18" font-weight="800">最近路径</text>
-    <line class="line" x1="152" y1="32" x2="844" y2="32"/>
-    <circle class="blue" cx="158" cy="32" r="10"/><text class="muted" x="158" y="54" text-anchor="middle" font-size="11">AI Lab</text>
-    <circle class="green" cx="256" cy="32" r="10"/><text class="muted" x="256" y="54" text-anchor="middle" font-size="11">Blog</text>
-    <circle class="cyan" cx="354" cy="32" r="10"/><text class="muted" x="354" y="54" text-anchor="middle" font-size="11">Flight</text>
-    <circle class="amber" cx="452" cy="32" r="10"/><text class="muted" x="452" y="54" text-anchor="middle" font-size="11">Racing</text>
-    <circle class="violet" cx="550" cy="32" r="10"/><text class="muted" x="550" y="54" text-anchor="middle" font-size="11">Atlas</text>
-    <circle class="red" cx="648" cy="32" r="10"/><text class="muted" x="648" y="54" text-anchor="middle" font-size="11">Factory</text>
-    <circle class="blue" cx="746" cy="32" r="10"/><text class="muted" x="746" y="54" text-anchor="middle" font-size="11">Escape</text>
-    <circle class="green" cx="844" cy="32" r="10"/><text class="muted" x="844" y="54" text-anchor="middle" font-size="11">Vocab</text>
+  <g>
+    <rect class="panel" x="64" y="838" width="1008" height="62" rx="8"/>
+    <text class="text" x="88" y="866" font-size="18" font-weight="800">最近路径</text>
+    <line class="line" x1="248" y1="868" x2="1032" y2="868"/>
+    <circle class="blue" cx="260" cy="868" r="10"/><text class="muted" x="260" y="890" text-anchor="middle" font-size="11">Profile</text>
+    <circle class="green" cx="370" cy="868" r="10"/><text class="muted" x="370" y="890" text-anchor="middle" font-size="11">AI Lab</text>
+    <circle class="cyan" cx="480" cy="868" r="10"/><text class="muted" x="480" y="890" text-anchor="middle" font-size="11">Blog</text>
+    <circle class="amber" cx="590" cy="868" r="10"/><text class="muted" x="590" y="890" text-anchor="middle" font-size="11">Flight</text>
+    <circle class="violet" cx="700" cy="868" r="10"/><text class="muted" x="700" y="890" text-anchor="middle" font-size="11">Racing</text>
+    <circle class="red" cx="810" cy="868" r="10"/><text class="muted" x="810" y="890" text-anchor="middle" font-size="11">Atlas</text>
+    <circle class="blue" cx="920" cy="868" r="10"/><text class="muted" x="920" y="890" text-anchor="middle" font-size="11">Factory</text>
+    <circle class="green" cx="1030" cy="868" r="10"/><text class="muted" x="1030" y="890" text-anchor="middle" font-size="11">Escape</text>
   </g>
 
-  <text class="muted" x="490" y="924" font-size="12" text-anchor="middle">口径：公开 owner repositories；数据来自 GitHub public API，统计时间为 2026-05-26 00:11 +08:00。</text>
+  <text class="muted" x="560" y="918" font-size="12" text-anchor="middle">口径：公开 repositories；数据来自 GitHub public API；统计时间为 2026-05-26 00:51 +08:00。</text>
 </svg>
